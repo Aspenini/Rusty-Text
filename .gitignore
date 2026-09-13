@@ -1,0 +1,11 @@
+/target/
+**/*.rs.bk
+
+# Generated output from this app
+output.txt
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
